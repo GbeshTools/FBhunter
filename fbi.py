@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Facebook Information 
+     Facebook HUNTER
 '''
 ###################################################################
 #                             COLOR
@@ -55,8 +55,8 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('F B I').center(44)
-		print (W + '     [' + G +'Facebook Information'+ W + ']')
+		print ('INFINITY JE').center(44)
+		print (W + '     [' + G +'Facebook HUNTER'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
-    Name       Facebook Information
+    Author     InukaASiTH
+    Name       Facebook HUNTER
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       10/05/2020
+    Owned By   t.me/InfinityJE
 
 * if you find any errors or problems , please contact
   author
