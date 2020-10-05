@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('F B I').center(44)
+	print ('F B HUNTER').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -63,6 +63,12 @@ def baliho():
 def show_program():
 
 	print '''
+	
+	
+░█▀▀▀ ░█▀▀█ 　 ░█─░█ ░█─░█ ░█▄─░█ ▀▀█▀▀ ░█▀▀▀ ░█▀▀█ 
+░█▀▀▀ ░█▀▀▄ 　 ░█▀▀█ ░█─░█ ░█░█░█ ─░█── ░█▀▀▀ ░█▄▄▀ 
+░█─── ░█▄▄█ 　 ░█─░█ ─▀▄▄▀ ░█──▀█ ─░█── ░█▄▄▄ ░█─░█
+
                     %sINFORMATION%s
  ------------------------------------------------------
 
