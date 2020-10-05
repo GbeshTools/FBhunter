@@ -1,15 +1,12 @@
 
 
 ```
-				 ________.   .__ 
-			       _/ ____\_ |__ |__|
-			       \   __\ | __ \|  |
-				|  |   | \_\ \  |
-				|__|   |___  /__|
-                                           \/    
-                                       
-                                       FBI
-                             [Facebook Informations]
+			
+░█▀▀▀ ░█▀▀█ 　 ░█─░█ ░█─░█ ░█▄─░█ ▀▀█▀▀ ░█▀▀▀ ░█▀▀█ 
+░█▀▀▀ ░█▀▀▄ 　 ░█▀▀█ ░█─░█ ░█░█░█ ─░█── ░█▀▀▀ ░█▄▄▀ 
+░█─── ░█▄▄█ 　 ░█─░█ ─▀▄▄▀ ░█──▀█ ─░█── ░█▄▄▄ ░█─░█
+
+FROM INFINITY JE
 ```
 FBI is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
@@ -18,8 +15,8 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 # [ Installation ]
 ```
 $ apt update && apt upgrade
-$ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ apt install git python3
+$ git clone https://github.com/InukaAsith/FBhunter.git
 $ cd fbi
 ```
 
@@ -29,7 +26,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 fbi.py
+$ python3 fbhunter.py
 ```
 # [ Screenshot ]
 <img src="https://image.ibb.co/iLFhD9/fbi.png"/>
